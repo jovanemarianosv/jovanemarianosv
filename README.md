@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @jovanemarianosv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Opá bão!!! Aqui é o Jovane Mariano
 
-<!---
-jovanemarianosv/jovanemarianosv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Hoje trabalho com Front-end
+- 🌱 Melhorando o Inglês (everyday)
+- 📫 Contate-me no e-mail: jovane.marianosv@gmail.com
+- 💬 https://github.com/jovanemarianosv
+- 😄 Pronouns: ele/dele
+<br>
+"A vitória pertence aquele que acredita nela, e aquele que acredita nela por mais tempo."
+
+Pearl Harbor
+
