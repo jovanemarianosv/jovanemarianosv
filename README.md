@@ -1,5 +1,6 @@
  # Opá bão!!! Aqui é o Jovane Mariano
 
+&#x1F1E7;&#x1F1F7; &#x1F1E7;&#x1F1F7; &#x1F1E7;&#x1F1F7;
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Melhorando o Inglês (everyday)
 - 📫 Contate-me no e-mail: jovane.marianosv@gmail.com
